@@ -1,4 +1,4 @@
-# Portafolios de Módulos técnicos del Bootcamp Fullstack Python de Talento Digital
+# Portafolios Módulos - Bootcamp Fullstack Python de Talento Digital
 
 Repositorio que consolida los portafolios del Bootcamp Fullstack Python, organizados por módulo.
 
