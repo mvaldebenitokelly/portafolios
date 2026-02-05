@@ -70,9 +70,6 @@ https://aulafullstack.online/portafolio2/
 Relator Bootcamp Fullstack Python · Talento Digital  
 Facilitador de aprendizaje técnico para adultos    
 
-
-LinkedIn: https://linkedin.com/in/miltoncesar
-
 ---
 
 ## 📜 Licencia
